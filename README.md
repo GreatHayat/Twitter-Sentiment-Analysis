@@ -14,4 +14,10 @@ For more information about Twitter API please vist the link below
 
 <a href="http://docs.tweepy.org/en/v3.5.0/api.html">Twitter API Reference </a>
 
+<h4> How can we use this code ? </h4>
+<ul>
+  <li>Please create an app from <a href="developer.twitter.com"> Twitter Developer Account </a></li>
+  <li>Get Your Crendentials and put them into <b> twitter_credentials.py</b> file </li>
+</ul>
+
 <h4><i> Happy Coding </i> </h4>
