@@ -16,7 +16,7 @@ For more information about Twitter API please vist the link below
 
 <h4> How can we use this code ? </h4>
 <ul>
-  <li>Please create an app from <a href="developer.twitter.com"> Twitter Developer Account </a></li>
+  <li>Please create an app from <a href="https://developer.twitter.com"> Twitter Developer Account </a></li>
   <li>Get Your Crendentials and put them into <b> twitter_credentials.py</b> file </li>
 </ul>
 
